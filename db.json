@@ -1,0 +1,41 @@
+{
+  "clients": [
+    {
+      "nombre": "Juan Actualizado",
+      "interes": "Piel",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "Nueva nota",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "interes": "Piel"
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "interes": "Cabello"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "interes": "Cabello"
+    },
+    {
+      "nombre": "Alejo",
+      "interes": "Cabello",
+      "email": "correo@correo.com",
+      "telefono": "1234567890",
+      "notas": "Probando nuevo cliente",
+      "id": 6
+    }
+  ]
+}
